@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あいでいて",
+  "base_artist": "Tele",
+  "createdAt": "2026-02-24T08:02:54.963339Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あいでいて",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_あいでいて_Tele.txt"
+    }
+  ]
+}
